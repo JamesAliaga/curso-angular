@@ -1,1 +1,4 @@
 #Angular
+*italic*
+**bold**
+`code`
